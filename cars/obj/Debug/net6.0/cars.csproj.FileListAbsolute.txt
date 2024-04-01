@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\cars\cars\bin\Debug\net6.0\cars.exe
+C:\Users\Hp\Desktop\cars\cars\bin\Debug\net6.0\cars.deps.json
+C:\Users\Hp\Desktop\cars\cars\bin\Debug\net6.0\cars.runtimeconfig.json
+C:\Users\Hp\Desktop\cars\cars\bin\Debug\net6.0\cars.dll
+C:\Users\Hp\Desktop\cars\cars\bin\Debug\net6.0\cars.pdb
+C:\Users\Hp\Desktop\cars\cars\obj\Debug\net6.0\cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\cars\cars\obj\Debug\net6.0\cars.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\cars\cars\obj\Debug\net6.0\cars.AssemblyInfo.cs
+C:\Users\Hp\Desktop\cars\cars\obj\Debug\net6.0\cars.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\cars\cars\obj\Debug\net6.0\cars.dll
+C:\Users\Hp\Desktop\cars\cars\obj\Debug\net6.0\refint\cars.dll
+C:\Users\Hp\Desktop\cars\cars\obj\Debug\net6.0\cars.pdb
+C:\Users\Hp\Desktop\cars\cars\obj\Debug\net6.0\cars.genruntimeconfig.cache
+C:\Users\Hp\Desktop\cars\cars\obj\Debug\net6.0\ref\cars.dll
